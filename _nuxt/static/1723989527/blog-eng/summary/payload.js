@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog-eng/summary", {data:[{sommaire:[{slug:"error-english",description:"Error in MongoDB where the $or operator is not recognized.",title:"Unknow operator $or",img:"https:\u002F\u002Fthierry-go-dev.fr\u002Ftourn\u002Fimages\u002Fblog\u002For.png"}]}],fetch:{},mutations:void 0});

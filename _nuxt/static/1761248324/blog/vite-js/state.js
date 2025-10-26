@@ -1,0 +1,1 @@
+window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1761248324",layout:"default",error:{statusCode:404,message:"Page not found"},state:{},serverRendered:false,routePath:"\u002Fblog\u002Fvite-js",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:null},content:{dbHash:"72968455"}}};
